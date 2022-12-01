@@ -1,7 +1,8 @@
 # Retail_data_analysis
 find the trends and data for different region and states and show the insights about profit,sales &amp; discount over different areas.
 
-![Tableau dashboard Link](https://public.tableau.com/views/retaildata_16699084935030/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Tableau Dashboard Link](https://public.tableau.com/views/retaildata_16699084935030/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 # create dashboard which should include the following in the insights :
 1. share the trend state with profit
 2. show the distribution of average profit by states, Analiyze which state is generating more average
